@@ -43,7 +43,6 @@ Below are the exercises for each day:
 
 ## System Requirements
 - **Python 3.x**
-- Necessary libraries (if any)
 
 ## Contribution
 If you would like to contribute to the project, please **fork** the repository and submit a **pull request** with improvements or bug fixes.
